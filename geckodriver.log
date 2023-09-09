@@ -1,0 +1,102 @@
+1694301788671	geckodriver	INFO	Listening on 127.0.0.1:51735
+1694301789219	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileFVACY4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694301789749	Marionette	INFO	Marionette enabled
+1694301789955	Marionette	INFO	Listening on port 51755
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51736
+Read port: 51755
+1694301790208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileFVACY4/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51736/devtools/browser/8a51bb7d-b2e1-4a9c-8057-63223b661050
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+1694301861436	geckodriver	INFO	Listening on 127.0.0.1:51866
+1694301861984	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileE95GzY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694301862478	Marionette	INFO	Marionette enabled
+1694301862621	Marionette	INFO	Listening on port 51875
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51867
+Read port: 51875
+1694301862891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileE95GzY/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51867/devtools/browser/2252c06b-1182-4f51-a0a7-3638847fc264
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+1694301908451	geckodriver	INFO	Listening on 127.0.0.1:51961
+1694301908986	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileXacgDk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694301909401	Marionette	INFO	Marionette enabled
+1694301909667	Marionette	INFO	Listening on port 51969
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51969
+WebDriver BiDi listening on ws://127.0.0.1:51962
+1694301909766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vk/_1_jq5z11nqb8v147vdkljmw0000gn/T/rust_mozprofileXacgDk/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51962/devtools/browser/f32ab7a6-0f82-4a98-8d25-c6b2e11faf40
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+1694302111488	Marionette	INFO	Stopped listening on port 51755
+1694302113805	Marionette	INFO	Stopped listening on port 51875
+1694302116351	Marionette	INFO	Stopped listening on port 51969
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
